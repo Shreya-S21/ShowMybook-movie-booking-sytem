@@ -140,7 +140,7 @@ The application validates:
 
 # 📂 Project Structure
 
-```text
+
 ShowMyBook/
 │
 ├── frontend.py
@@ -150,7 +150,7 @@ ShowMyBook/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-```
+
 
 ---
 
@@ -232,23 +232,20 @@ python frontend.py
 
 ## Admin
 
-```text
+
 Username: admin
 Password: admin123
-```
 
 ## User
 
-```text
 Username: user1
 Password: user123
-```
+
 
 ---
 
 # 🎟 Booking Workflow
 
-```text
 Login
    ↓
 Browse Movies
@@ -262,7 +259,7 @@ Enter Mobile Number
 Confirm Booking
    ↓
 Booking Successful
-```
+
 
 ---
 
@@ -270,33 +267,24 @@ Booking Successful
 
 ## Login Page
 
-```text
-(Add Screenshot Here)
 ![alt text](image-4.png)
-```
+
 
 ## Admin Dashboard
 
-```text
-(Add Screenshot Here)
 ![alt text](image-3.png)
-```
+
 
 ## Movie Selection
 
-```text
 ![alt text](image-2.png)
 
-```
 
 ## Seat Booking Interface
 
-```text
-
-```![alt text](image.png)
+![alt text](image.png)
 ![alt text](image-1.png)
 
----
 
 # 🎯 Learning Outcomes
 
